@@ -1,0 +1,10 @@
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\bin\Debug\OnlineFastFoodOrder.exe
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\bin\Debug\OnlineFastFoodOrder.pdb
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\OnlineFastFoodOrder.Form1.resources
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\OnlineFastFoodOrder.Properties.Resources.resources
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\OnlineFastFoodOrder.csproj.GenerateResource.Cache
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\OnlineFastFoodOrder.exe
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\OnlineFastFoodOrder.pdb
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\OnlineFastFoodOrder.FirstCustomerControl.resources
+C:\Users\adnan\Desktop\OnlineFastFoodOrder\OnlineFastFoodOrder\obj\Debug\OnlineFastFoodOrder.SecondCustomerControl.resources
